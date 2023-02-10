@@ -1,5 +1,4 @@
-﻿using HCAuthTest.Auth;
-using HotChocolate.Authorization;
+﻿using HotChocolate.Authorization;
 
 namespace HCAuthTest
 {
